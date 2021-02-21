@@ -1,4 +1,4 @@
-# Amazon_Vine_Analysis
+# Amazon Vine
 The purpose of this analysis is to preform a ETL process and determine the Bias of the review of the Amazon Vine program. We have have selected for this project to focus of Cameras reviews.
 
 # Analysis
