@@ -19,4 +19,4 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 
 # Summary
 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+In the current analysis, there is a possibility of a bias reviews because we can not verify the origin or accuracy of the views, to avoid this issue a further analysis should be perform in which only reviews that also have a verified purchaser part of our analysis. 
