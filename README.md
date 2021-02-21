@@ -9,6 +9,7 @@ After cleaning and filtering the camera data to determine the bias, the results 
 
 
 How many Vine reviews and non-Vine reviews were there?
+
 **There were 607 vine reviews and 50522 non-Vine. **
 
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
